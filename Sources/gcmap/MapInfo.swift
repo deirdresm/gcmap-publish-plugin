@@ -9,7 +9,6 @@ import Foundation
 
 enum MapPathColor {
 	case blue, red, violet, black, green, white, cyan, magenta, yellow, orange, navy, none
-
 }
 
 struct MapInfo {

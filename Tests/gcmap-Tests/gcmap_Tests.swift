@@ -1,5 +1,5 @@
 import XCTest
-@testable import gcmap_publish
+@testable import gcmap
 
 final class gcmap_publishTests: XCTestCase {
     func testExample() throws {
